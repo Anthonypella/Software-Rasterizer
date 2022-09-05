@@ -1,0 +1,11 @@
+﻿  main.cpp
+C:\Users\Anthony Pella\ComputerGraphics\SoftwareRasterizer\Software Rasterizer\triangles.h(371,41): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Anthony Pella\ComputerGraphics\SoftwareRasterizer\Software Rasterizer\Renderer.h(369,1): warning C4554: '>>': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\Anthony Pella\ComputerGraphics\SoftwareRasterizer\Software Rasterizer\Renderer.h(523,13): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Anthony Pella\ComputerGraphics\SoftwareRasterizer\Software Rasterizer\Renderer.h(524,28): warning C4018: '>': signed/unsigned mismatch
+  Generating code
+  5 of 1117 functions ( 0.4%) were compiled, the rest were copied from previous compilation.
+    1 functions were new in current compilation
+    8 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  SimpleDraw.vcxproj -> C:\Users\Anthony Pella\ComputerGraphics\SoftwareRasterizer\Software Rasterizer\Release\MazeViewer.exe

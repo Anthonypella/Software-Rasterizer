@@ -1,0 +1,47 @@
+# textures.  the last one is always the texture of the floor
+TEXTURES 2  # number of textures
+1 monaLisa.jpg
+2 wall1.jpg
+
+
+# cell size
+CELL 1
+# height of walls
+HEIGHT 1
+
+
+# dimensions of scene, in number of cells
+DIMENSIONS 7 8
+
+FLOORPLAN
+2  1  1  1  1  1 1
+2  1  1  1  0  1 1
+2  1  1  0  1  1 1 
+2  1  1  1  0  1 1
+2  0  0  2  1  1 2 
+1  0  0  0  1  1 2
+1  1  0  0  1  1 2
+1  1  1  0  0  1 2
+1  1  1  1  0 1 2
+1  1  1  0  0  1 2
+1  2  0  0  0  1 1
+1  2  1  1  1  1 1
+1  1  0  1  0  1 2
+1  1  1  0  1  1 2
+1  1  1  1  1  1 1
+1  1  2  1  1  1 1
+
+# end of the file
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  

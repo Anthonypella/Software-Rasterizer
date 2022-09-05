@@ -1,0 +1,3 @@
+C:\Users\Anthony Pella\ComputerGraphics\MazeViewer_Software - Copy (20)\Release\MazeViewer.exe
+C:\Users\Anthony Pella\ComputerGraphics\SoftwareRasterizer\MazeViewer_Software - Copy (20)\Release\MazeViewer.exe
+C:\Users\Anthony Pella\ComputerGraphics\SoftwareRasterizer\Software Rasterizer\Release\MazeViewer.exe
